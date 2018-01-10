@@ -1,6 +1,4 @@
-Books Website
-
-Test
+Books Website Test
 ========================================
 In config.php make sure it points correctly to data folder at books api
 Make sure that books api works correctly
@@ -24,8 +22,7 @@ We can try 2 methods:
 
 Version 1.0
 ========================================
-Date: 1/6/2017
-By: Mohamed Sobh
-Notes:
-None
+Date: 10 jan 2018
+By: Mohamed Nizam
+
 
